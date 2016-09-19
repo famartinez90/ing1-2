@@ -1,4 +1,4 @@
-    var dir_root = '/home/ecoronel/Exactas/isw2/tp/wifind-bar/';
+    var dir_root = '/var/www/ing1-2/';
 
     var express = require('express'),
         app = express(),
