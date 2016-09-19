@@ -32,6 +32,9 @@
   "directories": {
     "test": "test"
   },
+  "scripts": {
+    "start": "node main.js"
+  }
   "keywords": [
     "isw",
     "wifi",
