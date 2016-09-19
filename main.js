@@ -1,4 +1,4 @@
-    var dir_root = '/var/www/ing1-2/';
+    var dir_root = __dirname+"/";
 
     var express = require('express'),
         app = express(),
